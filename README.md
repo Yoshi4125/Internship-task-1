@@ -1,1 +1,3 @@
-The program takes user input for name, internship role, and today’s date using the input() function. It stores the name and internship role as strings and converts the date into an integer. The entered details are then displayed as output.
+name = input("Enter your name: ") #enter user name 
+internship_role = input("Enter your internship role: ") #enter user role of internship
+date = int(input("Enter today's date: ")) #enter date 
